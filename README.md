@@ -10,7 +10,6 @@ VU-QUESTION-FIVE-/
 ├── manifest.mf
 └── [other project files]
 
-- **LICENSE** — The project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).  
 - **VUE_Exhibition.accdb** — Microsoft Access database file.  
 - **build.xml** — Build configuration (Ant).  
 - **manifest.mf** — Metadata for Java archive.  
@@ -34,3 +33,13 @@ The contents of this repository relate to “Question Five” of a VU (OOP Exam)
 VUE_Exhibition.accdb: Open using Microsoft Access or compatible tools.
 
 Java/Ant build files (build.xml): Used Apache Ant to build the project.
+
+**License**
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+You may obtain a copy of the license at:
+https://www.gnu.org/licenses/gpl-3.0.en.html
+
+A LICENSE file should be included in this repository containing the full GPL-3.0 license text.
+
+**Author**
+Elisha Muwanguzi
